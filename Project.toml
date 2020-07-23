@@ -3,6 +3,10 @@ uuid = "b157dc6c-4a05-42d4-b4ef-febf096c38fb"
 authors = ["John K Best"]
 version = "0.1.0"
 
+[deps]
+RCall = "6f49c342-dc21-5d91-9882-a32aef131414"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+
 [compat]
 julia = "1.2"
 
