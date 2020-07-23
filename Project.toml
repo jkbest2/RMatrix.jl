@@ -1,0 +1,13 @@
+name = "RMatrix"
+uuid = "b157dc6c-4a05-42d4-b4ef-febf096c38fb"
+authors = ["John K Best"]
+version = "0.1.0"
+
+[compat]
+julia = "1.2"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
